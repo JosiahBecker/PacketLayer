@@ -472,6 +472,7 @@
                     <size key="freeformSize" width="375" height="1500"/>
                     <connections>
                         <outlet property="OppBackupInternetLabel" destination="kJj-NV-2aA" id="KVt-3F-5Gw"/>
+                        <outlet property="OppConsultingLabel" destination="IGK-VP-fjQ" id="0uv-7G-iX9"/>
                         <outlet property="OppDomainNameLabel" destination="jKG-fk-kK9" id="WSE-hp-haS"/>
                         <outlet property="OppHostingLabel" destination="z8X-UX-aLb" id="sjN-tQ-m2A"/>
                         <outlet property="OppInternetLabel" destination="LGn-e0-NCr" id="tDi-K6-oNH"/>

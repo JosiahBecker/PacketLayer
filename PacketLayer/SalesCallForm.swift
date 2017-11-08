@@ -55,6 +55,7 @@ class SalesCallForm: UIViewController, UITextFieldDelegate {
     @IBOutlet weak var OppWebDevLabel: UILabel!
     @IBOutlet weak var OppDomainNameLabel: UILabel!
     @IBOutlet weak var OppManagedServicesLabel: UILabel!
+    @IBOutlet weak var OppConsultingLabel: UILabel!
     
     
     //MARK: General Info Variables
